@@ -1,9 +1,9 @@
 {
-    "Identifier": "",
-    "Slug": "",
-    "Status": "",
-    "Title": "",
-    "Description": "",
+    "Identifier": "eos1ozr",
+    "Slug": "antimalarial-model-test",
+    "Status": "In progress",
+    "Title": "Test Antimalarial Model",
+    "Description": "MAIP distillation: antimalarial potential prediction",
     "Mode": "",
     "Task": [],
     "Input": [],
@@ -12,8 +12,11 @@
     "Output Type": [],
     "Output Shape": "",
     "Interpretation": "",
-    "Tag": [],
-    "Publication": "",
-    "Source Code": "",
-    "License": ""
+    "Tag": [
+        "Malaria",
+        "P.falciparum"
+    ],
+    "Publication": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00487-2",
+    "Source Code": null,
+    "License": "MIT"
 }
